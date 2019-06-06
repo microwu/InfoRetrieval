@@ -1,0 +1,14 @@
+学术报告二十二：Error bounds for Structured Conv
+数学与统计学院学术报告[2019] 022号
+(高水平大学建设系列报告256号)
+报告题目: Error bounds for Structured Convex Programming: Theory and Applications
+报告人：周子锐 教授  (Hong Kong Baptist University)
+报告时间：2019年5月13日10：00-11：00
+报告地点：科技楼514 
+报告内容：Error bounds, which refer to inequalities that bound the distance of vectors in a test set to a given set by a residual function, have proven to be extremely useful in practical implementation and convergence analysis of a host of iterative methods for solving optimization problems. In this talk, we present a new framework for establishing error bounds for a class of structured convex optimization problems, in which the objective function is the sum of a smooth convex function and a possibly nonsmooth convex function. Such a class encapsulates not only fairly general constrained minimization problems but also various regularized loss minimization formulations in machine learning, signal processing, and statistics. Using our framework, we show that a number of existing error bound results can be recovered in a unified and transparent manner. To further demonstrate the power of our framework, we apply it to establish new error bounds for nuclear-norm and $\ell_{1,p}$-norm regularized loss minimization formulations.
+ 
+报告人简历：周子锐博士于2015年在香港中文大学获得博士学位（师从Anthony Man-Cho So教授），随后在加拿大Simon Fraser大学进行博士后研究（与吕召松教授、Tamon Stephen教授合作），2018年加入香港浸会大学数学系。主要研究领域为连续优化的理论与算法研究，及机器学习与数据分析的应用。在SIAM J. Optim., Math. Program. 等顶级期刊发表多篇论文。
+欢迎感兴趣的师生参加！
+　　　　　　　　　　　　　　　　　　　　　　　 　　数学与统计学院
+　　　　　　　　　　　　　　　　　　　　　　　　　2019年5月7日
+

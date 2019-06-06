@@ -1,0 +1,12 @@
+学术讲座（三十）：Design and Synthesis of High&nb
+Design and Synthesis of High Performance Catalysts
+主讲人: Professor Zhichuan J. Xu
+　　 　　Professor Gengfeng Zheng
+   Professor Wei Xing  
+　　　Professor Dehui Deng
+时间: 2019年5月18上午9:00
+地点: 深圳大学西丽校区B1-420会议室
+ 
+报告简介：
+Exploring efficient and low cost oxygen electrocatalysts for ORR and OER is critical for developing renewable energy technologies like fuel cells, metal-air batteries, and water electrolyzers. This presentation will presents a systematic study on oxygen electrocatalysis (ORR and OER) of transition metal spinel oxides. Starting with a model system of Mn-Co spinel, the presentation will introduce the correlation of oxygen catalytic activities of these oxides and their intrinsic chemical properties. The catalytic activity was measured by rotating disk technique and the intrinsic chemical properties were probed by synchrotron X-ray absorption techniques. It was found that molecular orbital theory is able to well-explain their activities. The attention was further extended from cubic Mn-Co spinels to tetragonal Mn-Co spinels and it was found that the molecular theory is again dominant in determining the catalytic activies. This mechanistic principle is further applied to explain the ORR/OER activities of other spinels containing other transition metals (Fe, Ni, Zn, Li, and etc.). The talk further gives insight on surface reconstruction on spinel oxides and how the bulk properties affect such reconstruction during OER.
+欢迎有兴趣的师生参加！

@@ -1,0 +1,26 @@
+学术报告三则
+报告题目（一）：A smoothing proximal gradient algorithm for nonsmooth convex regression with cardinality penalty
+报告人（一）：边伟老师（哈尔滨工业大学 教授 博导）
+报告时间：2019年5月19日  9:00-10:00
+报告地点：科技楼515_4
+ 
+报告题目（二）：Several Neurodynamic Approaches to Nonsmooth Nonconvex Optimization Problems
+报告人（二）：秦泗甜老师（哈尔滨工业大学 教授 博导）
+报告时间：2019年5月19日  10:20-11:20
+报告地点：科技楼515_4
+ 
+报告题目（三）：Periodically intermittent discrete-time state observations control for exponential stabilization of multi-links complex networks
+报告人（三）：李文学老师（哈尔滨工业大学 副教授 博导）
+报告时间：2019年5月19日  11:30-12:30
+报告地点：科技楼515_4
+ 
+ 
+欢迎感兴趣的师生参加！
+ 
+ 
+ 
+数学与统计学院
+广东省高校高清视频智能分析与处理工程技术研究中心
+深圳市现代机器学习与应用重点实验室
+2018年5月18日
+

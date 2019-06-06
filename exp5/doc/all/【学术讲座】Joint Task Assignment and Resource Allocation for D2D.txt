@@ -1,0 +1,52 @@
+【学术讲座】Joint Task Assignment and Resource Allocation for D2D
+讲座题目: Joint Task
+Assignment and Resource Allocation for D2D-Enabled Mobile-Edge Computing
+主讲嘉宾：邢泓  副研究员  深圳大学
+邀请人：毕宿志  副教授
+讲座时间：2019年5月15日（周三）下午3:00
+讲座地点：电子与信息工程学院N723会议室
+讲座摘要:
+With the proliferation of latency-critical applications in the 5G and
+beyond networks, mobile-edge computing (MEC) or fog computing, which provides
+cloud-like computation and/or storage capabilities at the network edge, is
+envisioned to reduce computation latency as well as to conserve energy for
+wireless devices (WDs). This talk focuses on one of the speaker’s work studying
+a novel device-to-device (D2D)-enabled multi-helper MEC system, in which a
+local user solicits its nearby WDs serving as helpers for cooperative
+computation. We assume a time division multiple access (TDMA) transmission
+protocol, under which the local user offloads the tasks to multiple helpers and
+downloads the results from them over orthogonal pre-scheduled time slots. Under
+this setup, we minimize the computation latency by optimizing the local user's
+task assignment jointly with the time and rate for task offloading and results
+downloading, as well as the computation frequency for task execution, subject
+to individual energy and computation capacity constraints at the local user and
+the helpers. However, the formulated problem is a mixed-integer non-linear
+program (MINLP) that is difficult to solve. To tackle this challenge, we
+propose an efficient algorithm by first relaxing the original problem into a
+convex one, and then constructing a suboptimal task assignment solution based on
+the obtained optimal one. To further reduce the implementation complexity, we
+also develop a heuristic scheme based on the greedy task assignment. Finally,
+numerical results validate the effectiveness of our proposed algorithm, as
+compared against the heuristic scheme and other benchmark ones without either
+joint optimization of radio and computation resources or task assignment
+design.
+嘉宾简介：
+XING Hong (邢泓) received the
+B.Eng. degree in Electronic Sciences and Technologies, and B.A. degree in
+English literature both from Zhejiang University, China, in 2011, and the Ph.D.
+degree in Wireless Communications from King's College London, U.K., in 2015.
+She is currently a Research Associate with the College of Information
+Engineering, Shenzhen University, China. Previously, she was a Post-Doctoral
+Research Fellow with the School of Electronic Engineering and Computer Science,
+Queen Mary University of London, U.K. from September 2017 to January 2019, and
+before then she was a Research Associate with the Department of Informatics,
+King’s College London, U.K., from February 2016 to August 2017. Her research
+interests include physical-layer security, wireless information and power
+transfer, mobile-edge computing, fog computing system and non-orthogonal
+multiple access (NOMA). She was a recipient of the Best 50 of IEEE Global
+Communications Conference (GLOBECOM) 2014. She served as Member of Technical
+Program Committees for several IEEE conferences. She is currently an Associate
+Editor of the IEEE Access.
+
+
+欢迎各位师生参加！

@@ -1,0 +1,14 @@
+学术报告二十五：Operational risk management: A stochastic control f
+数学与统计学院学术报告[2019] 025号
+(高水平大学建设系列报告259号)
+报告题目: Operational risk management: A stochastic control framework with preventive and corrective controls
+报告人：朱凌炯　　助理 教授  （佛罗里达州立大学）
+报告时间：2019年6月3日10:00-11:00
+报告地点：科技楼514　　　　 　　　　　　　　　　　　　 
+报告内容：In this talk, we propose a general modeling framework for operational risk management of financial  firms. We consider operational risk events as shocks to a financial firm's value process, and then study capital investments in preventive and corrective controls to mitigate risk losses. The optimal decisions are made in three scenarios: (i) preventive control only, (ii) corrective control only, and (iii) joint controls. We characterize the optimal control policies, and then discuss an exponential risk reduction function. We conclude our work with an application of our model to a data set from a commercial bank.  At the bank we analyze we find that with a joint control strategy the bank can achieve profit increases from 7.45% to 11.62% when the risk reduction efficiencies of the two controls are high. This is based on the joint work with Yuqian Xu and Michael Pinedo.
+ 
+报告人简历：朱凌炯2008年本科毕业于英国剑桥大学，2013年获美国纽约大学数学博士学位。后在纽约摩根斯坦利，明尼苏达大学任职，并于2015年加入佛罗里达州立大学。研究方向包括应用概率,数据科学,金融工程,运筹。先后在SIFIN, FS, QF, AAP, SPA, Bernoulli, IME, INFORMS JoC, Queueing Systems等期刊发表学术论文三十余篇。曾获Kurt Friedrichs Prize，主持美国国家科学基金一项。
+欢迎感兴趣的师生参加！
+　　　　　　　　　　　　　　　　　　　　　　　 　　数学与统计学院
+　　　　　　　　　　　　　　　　　　 　　　　　　 2019年5月22日
+

@@ -1,0 +1,41 @@
+【学术讲座】Service Provisioning in 5G Communication Networks
+
+
+讲座题目：Service
+Provisioning in 5G Communication Networks
+主讲嘉宾：Prof.
+Weihua Zhuang, 加拿大院士，加拿大滑铁卢大学
+邀请人：代明军 副教授
+讲座时间：2019.05.07（周二）下午15:00
+讲座地点：电子与信息工程学院N710会议室
+讲座摘要：
+The fifth generation (5G) communication networks will accommodate a
+wide range of emerging services with diverse service quality requirements. The
+network will integrate a variety of network resources and technologies to
+support high transmission rate and to enhance quality of experience to mobile
+users. The traditional one-size-fits-all network architecture cannot
+efficiently meet the needs of different services, due to the poor scalability,
+limited adaptability, and inflexibility. Network function virtualization (NFV)
+enabled by software defined networking (SDN) technology is a promising approach
+for an agile and flexible 5G networking infrastructure. In this presentation,
+we will provide an overview of several recent studies for 5G networks,
+including dynamic radio resource slicing in wireless network virtualization,
+computing and transmission resource allocation in the core network, and how to
+establish a customized virtual network topology for multicast services.　 
+嘉宾简介：
+Dr. Weihua Zhuang has been with the Department of Electrical and
+Computer Engineering, University of Waterloo, Canada, since 1993, where she is
+a Professor and a Tier I Canada Research Chair in Wireless Communication
+Networks. She is the recipient of 2017 Technical Recognition Award from IEEE
+Communications Society Ad Hoc & Sensor Networks Technical Committee, and a
+co-recipient of several best paper awards from IEEE conferences. Dr. Zhuang was
+the Editor-in-Chief of IEEE Transactions on Vehicular Technology (2007-2013),
+Technical Program Chair/Co-Chair of IEEE VTC Fall 2017 and Fall 2016, and the
+Technical Program Symposia Chair of the IEEE Globecom 2011. She is a Fellow of
+the IEEE, the Royal Society of Canada, the Canadian Academy of Engineering, and
+the Engineering Institute of Canada. Dr. Zhuang is an elected member in the
+Board of Governors and VP Publications of the IEEE Vehicular Technology
+Society. 
+欢迎各位师生参加！
+
+

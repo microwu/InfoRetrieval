@@ -1,0 +1,70 @@
+【学术讲座】Role and Challenges of Embedded AI
+讲座题目：Role and Challenges of Embedded AI in the Era of Internet
+Intelligence-of-Things  (嵌入式人工智能在智联网时代的角色和挑战)
+主讲嘉宾：Prof. Yong Lian
+　　　 　　 Fellow
+of IEEE
+　　　 　　 Fellow of Academy of Engineering Singapore
+　　　 　　 President, IEEE Circuits and Systems
+Society
+
+
+　　　 　     Chair,
+IEEE Periodicals Partnership Opportunities Committee
+邀请人：黎 冰  副教授 （IEEE CASS Shenzhen Chapter Invited Lecture）
+讲座时间：2019.05.06（周一）上午10:30
+
+
+讲座地点：电子与信息工程学院N710会议室
+讲座摘要：
+Internet-of-Things (IoT) is the inter-networking of physical devices,
+vehicles, buildings, and objects with embedded sensors. It is estimated that by
+2020 there will be more than 34 billion IoT devices connected to the Internet.
+Nearly $6 trillion will be spent on IoT solutions over the next five years.
+Artificial Intelligence (AI), on the other hand, is intelligence demonstrated
+by machines that work and react like humans. Some examples of AI powered
+applications are voice-powered personal assistants like Siri and Cortana,
+machine translation, email spam filter, etc. The combination of AI and IoT
+gives birth of Internet Intelligence-of-Things (I2oT). I2oT devices differ from
+IoT devices that not only they sense, store, transmit data but also analyze and
+act on data, i.e. the I2oT device makes a decision or perform a task similar to
+what a person could do. Most of existing “smart” IoT devices, which are
+controllable from an APP, are not I2oT devices. The true I2oT devices should be
+able to perform a task on your behalf, such as autonomous vehicle – it drives
+for you. The enabling technology for the I2oT device is embedded AI. This talk
+will cover low power techniques for embedded AI in I2oT applications. The focus
+is on the energy efficient system architecture that utilizes the brain-inspired
+event-driven signal representation. The event-driven signal representation
+enables data compression at the input source, which greatly reduces the power
+for data transmission and processing. We will show by examples that the
+event-driven system significantly improves energy efficiency and is well suited
+for I2oT applications.
+嘉宾简介： 
+Dr. Yong Lian received the B.Sc degree from the College of Economics &
+Management of Shanghai Jiao Tong University in 1984 and the Ph.D degree from
+the Department of Electrical Engineering of National University of Singapore
+(NUS) in 1994. His research interest includes low power techniques,
+continuous-time signal processing, and biomedical circuits and systems. His
+work has been recognized with more than 20 awards including the 1996 IEEE
+Circuits and Systems Society's Guillemin-Cauer Award, the 2008 Multimedia
+Communications Best Paper Award from the IEEE Communications Society, 2011 IES
+Prestigious Engineering Achievement Award, 2012 Faculty Research Award, 2013
+Outstanding Contribution Award from Hua Yuan Association and Tan Kah Kee
+International Society, 2014 Chen-Ning Yang Award in Science and Technology for
+New Immigrant, and the 2015 Design Contest Award in 20th International
+Symposium on Low Power Electronics and Design. He is also the recipient of the
+National University of Singapore Annual Teaching Excellence Awards in 2009 and
+2010, respectively. 
+Dr. Lian is the President of the IEEE Circuits and Systems (CAS) Society,
+Chair of IEEE Periodicals Partnership Opportunities Committee, a member of IEEE
+Periodicals Committee, a member of IEEE Periodicals Review and Advisory
+Committee, a member of IEEE Biomedical Engineering Award Committee, a member of
+Steering Committee of the IEEE Transactions on Biomedical Circuits and Systems.
+He was the Editor-in-Chief of the IEEE Transactions on Circuits and Systems II
+for two terms from 2010 to 2013, a member of IEEE Fellow Committee from 2016 to
+2018. He served many positions in the IEEE CAS Society including Vice President
+for Publications, Vice President for Asia Pacific Region, Chair of the
+Biomedical Circuits and Systems Technical Committee, Chair of DSP Technical
+Committee, Distinguished Lecturer, etc. He is the founder of several
+conferences including BioCAS, ICGCS, and PrimeAsia. 
+欢迎各位师生参加！

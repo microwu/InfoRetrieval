@@ -1,0 +1,8 @@
+基于多目标优化的车辆路径问题：以香港食品供应商分销为例
+主讲人：张子臻副教授，中山大学数据科学与计算机学院
+时间：2019年05月26日（星期日）15:00-17：00
+地点：土木与交通工程学院院馆B401
+讲座内容：An importer in Hong Kong employs vehicles all from external transport companies to deliver products to its customers geographically scattered in difference locations. The delivery plan needs to simultaneously minimize the total traveling cost and balance the profits among all transport companies. This transportation practice engenders a new variant of vehicle routing problems, called the vehicle routing problem with outsourcing and profit balancing. The profits are balanced by maximizing the minimum unit profit of all transport companies, which can effectively avoid the occurrence of distorted solutions. We develop two multi-objective local search algorithms for the problem, where the second one enhances the first one by incorporating several additional techniques. To evaluate our algorithms, we conduct extensive experiments on 57 generated instances and a real case obtained from a food importer in Hong Kong. The computational results clearly demonstrate that our algorithm is able to achieve satisfactory solutions.
+主讲人介绍：张子臻，中山大学数据科学与计算机学院副教授，中山大学国际大学生程序设计竞赛教练。中山大学学士与硕士，香港城市大学博士，香港科技大学，美国新泽西理工大学访问学者。研究方向包括智能算法、智能物流运输、决策优化与系统调度。主持了包括国家自然科学基金1项，广东省自然科学基金项目2项及多项企业委托课题。发表论文40余篇，包括IEEE Transactions、Transportation Research、European Journal of Operations Research等知名期刊和AAAI、IJCAI等顶级会议。
+土木与交通工程学院
+2019年5月23日

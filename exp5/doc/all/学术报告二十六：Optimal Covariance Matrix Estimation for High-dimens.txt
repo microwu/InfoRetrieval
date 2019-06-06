@@ -1,0 +1,17 @@
+学术报告二十六：Optimal Covariance Matrix Estimation for High-dimens
+数学与统计学院学术报告[2019] 026号
+(高水平大学建设系列报告260号)
+报告题目: Optimal Covariance Matrix Estimation for High-dimensional Noise in High-frequency Data
+报告人：常晋源 　　教授  （西南财经大学）
+报告时间：5月28日10:30-11:30
+报告地点：科技楼501　　　　　　　　　　　　　　　　　　　　　
+报告内容：
+In this paper, we consider efficiently learning the structural information from the high dimensional noise in high-frequency data via estimating its covariance matrix with optimality. The problem is uniquely challenging due to the latency of the targeted high-dimensional vector containing the noises, and the practical reality that the observed data can be highly asynchronous – not all components of the high-dimensional vector are observed at the same time points. To meet the challenges, we propose a new covariance matrix estimator with appropriate localization and thresholding. In the setting with latency and asynchronous observations, we establish the minimax optimal convergence rates associated with two commonly used loss functions for the covariance matrix estimations. As a major theoretical development, we show that despite the latency of the signal in the high-frequency data, the optimal rates remain the same as if the targeted high-dimensional noises are directly observable. Our results indicate that the optimal rates reflect the impact due to the asynchronous observations, which are slower than that with synchronous observations. Furthermore, we demonstrate that the proposed localized estimator with thresholding achieves the minimax optimal convergence rates. We also illustrate the empirical performance of the proposed estimator with extensive simulation studies and a real data analysis.
+ 
+报告人简历：
+常晋源，2013年7月于北京大学光华管理学院取得经济学博士学位，2013年9月至2017年2月在澳大利亚墨尔本大学数学与统计学院任研究员，2017年3月开始全职在西南财经大学统计学院工作。现为西南财经大学数据科学与商业智能联合实验室执行主任、教授、博士生导师、四川省特聘专家、四川省统计专家咨询委员会委员。2012年3月获得国际数理统计协会Laha Award；2013年5月获中国概率统计学会“宝洁优秀论文奖”；2013年10月获得中国数学会“第11届钟家庆数学奖”；2014年和2015年两度获得国际数理统计协会IMS Travel Award；2018年3月获得霍英东教育基金会第十六届高等院校青年教师基金资助；2018年9月获得刘诗白奖励基金优秀科研成果奖一等奖；2015年破格入选四川省“千人计划”，2018年同时入选教育部“青年长江学者”和中组部“青年千人计划”。主要从事“超高维数据分析”和“高频金融数据分析”两个领域的研究。已在统计学与计量经济学国际顶级学术期刊Annals of Statistics、Biometrika、Journal of Econometrics等上发表第一作者论文10余篇。2017年8月开始担任统计学国际知名学术期刊Statistica Sinica的副主编，2017年10月开始担任统计学国际顶级学术期刊Journal of the Royal Statistical Society Series B的副主编，2018年9月开始担任计量经济学顶级学术期刊 Journal of Business & Economic Statistics副主编，2019年3月开始担任中文核心期刊《应用概率统计》编委。此外，2018年10月开始担任中国概率统计学会和中国数量经济学会理事。
+ 
+ 
+　　　　　　　　　　　　　　　　　　　　　　　 　　数学与统计学院
+　　　　　　　　　　　　　　　　　　　　　　 　　2019年5月22日
+

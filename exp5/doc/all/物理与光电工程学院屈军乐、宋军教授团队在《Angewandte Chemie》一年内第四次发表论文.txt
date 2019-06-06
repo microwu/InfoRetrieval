@@ -1,0 +1,6 @@
+物理与光电工程学院屈军乐、宋军教授团队在《Angewandte Chemie》一年内第四次发表论文
+物理与光电工程学院屈军乐、宋军教授团队与日本东京大学Kazunari Domen教授团队在新型核壳结构的氮氧化物制备及其光催化产氢研究方面取得重要进展，研究成果近期以“Core‐shell‐structured LaTaON2 Transformed from LaKNaTaO5 Plates for Enhanced Photocatalytic H2 evolution”为题发表在《Angewandte Chemie International Edition》（JCR一区，影响因子12.102）上，该团队王鑫博士为第一作者，宋军教授和Kazunari Domen教授为共同通讯作者，深圳大学为第一通讯单位。
+
+LaTaON2是一种吸收波长高达650nm的光催化剂，然而由于其传统制备条件苛刻（通常在950℃下氮化15h以上），得到的样品形貌不可控且具有高密度的还原态Ta缺陷，进而表现出较低的光催化产氢活性。为此，本工作采用一种层状钙钛矿型LaKNaTaO5氧化物作为氮化前驱体，发展了一种新型氮化策略，制备出具有核壳结构的片状LaKNaTaO5/LaTaON2。通过晶体结构图可以发现，沿[010]方向的LaTaON2的原子间距与沿[001]方向的LaKNaTaO5的原子间距非常接近。因此，将LaKNaTaO5定向转化为LaTaON2是可行的。在短暂氮化过程中，K和Na物种的挥发促进了表层LaKNaTaO5沿[001]方向快速转化为LaTaON2，并保留其片状形貌。进而在LaKNaTaO5核上形成具有低密度缺陷且暴露（010）晶面的LaTaON2壳层。在负载Rh助催化剂后，LaKNaTaO5/LaTaON2光催化剂的产氢活性是传统LaTaON2产氢活性的4倍。本工作主要是发展了一种通过选择含有挥发组分的氧化物前驱体来制备出与之晶格匹配、形貌可控且低密度缺陷的氮氧化物。
+这是屈军乐、宋军教授团队在一年内第四次在该期刊发表第一作者单位研究论文。该研究得到了国家自然科学基金、广东省创新团队、广东省普通高校国际暨港澳台合作创新平台以及深圳市基础研究计划项目的支持。
+文章链接https://onlinelibrary.wiley.com/doi/10.1002/anie.201906081 

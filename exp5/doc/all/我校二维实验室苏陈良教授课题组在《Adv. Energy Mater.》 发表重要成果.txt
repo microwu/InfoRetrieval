@@ -1,0 +1,37 @@
+我校二维实验室苏陈良教授课题组在《Adv. Energy Mater.》 发表重要成果
+【核心提示】
+近日，深圳大学二维材料实验室范院士团队苏陈良教授课题组联合上海师范大学李和兴教授课题组、新加坡国立大学陈伟教授利用微波诱导金属溶解策略原位合成了具有核-壳结构的铜纳米线/ZnS(CuNWs/ZnS)复合材料，并以深圳大学为第一单位在Adv. Energy Mater.上发表了题为“Microwave-Induced Metal Dissolution Synthesis of Core-Shell Copper Nanowires/ZnS for Visible Light Photocatalytic H2 Evolution”的研究论文，文章第一作者为中心博士后肖舒宁。该期刊为中科院一区，当前影响因子为21.875。
+该研究团队利用铜纳米线（CuNWs）在微波作用下的超热表面作用，诱导ZnS在其表面原位成核结晶，生长并包裹成核-壳结构。另外，该工作强调了在S2-的帮助下，超热的金属表面进一步导致CuNWs溶解，促进Cu+扩散并掺杂到ZnS晶格中。掺杂后，由于较窄的带隙以及CuNWs与ZnS之间的强耦合界面，所制备的复合材料在可见光下表现出增强的制氢活性和稳定性。相应的制氢速率达到10722 μmol·h-1·g-1，在420 nm LED照射下表观量子效率(AQE)为69 %，在非贵金属可见光驱动的光催化剂中AQE非常高，证明了其在应对能源危机的实际应用中具有巨大潜力。
+【研究背景】
+　 在众多光催化剂中，ZnS光催化剂由于其适当的导带位置以及快速产生光生载流子的直接带隙而得到了广泛的研究。然而ZnS带隙较宽(3.66 eV)，太阳能利用效率较低。为更有效利用太阳光并改善光催化活性，研究人员已进行多次尝试以设计和制造ZnS基光催化剂，特别是利用生态友好、低成本的非贵金属光催化剂。非贵金属掺杂剂(如Cu、Ni和Bi)可修饰ZnS的电子能带结构，并且可增强可见光响应，但其尚缺乏载流子有效分离途径，因此其制氢速率仍远低于Pt掺杂剂。正如作者之前所报道的，由于合适的肖特基界面接触，铜纳米线(CuNWs)可作为贵金属的替代物以增强TiO2催化分解水性能，其中光生电子从TiO2中溢出到CuNW中。因此，将CuNWs应用于ZnS可能是实现高性能光催化制氢的低成本且有前途的方法。
+【图文导读】
+
+图1 微波辅助水热法制备CuNWs/ZnS复合材料的示意图。
+
+图2  CuNWs/ZnS复合材料的形貌与结构
+
+图3  CuNWs/ZnS复合材料的生长过程
+
+图4 　CuNWs/ZnS复合材料的光吸收和催化制氢性能
+
+图5  Cu NWs/ZnS复合材料的光电性能
+
+图6 　Cu NWs/ZnS复合材料的反应机理
+【全文总结】
+综上所述，作者利用微波诱导金属溶解策略原位合成了核-壳结构的CuNWs/ZnS复合材料。在S2-的存在下，CuNWs的局域微波超热表面促进其溶解以及Cu+扩散到ZnS晶格中，使得带隙变窄进而产生可见光响应。紧密的肖特基界面促进了光激发电子从ZnS到CuNW的传输。因此，所制备的复合材料在可见光催化制氢中表现出增强的活性和稳定性，相应的制氢速率达到10722 μmol·h-1·g-1，并且在420 nm LED照射下表观量子效率为69%。该工作不仅报道了一种具有非常高AQE的可见光驱动非贵金属复合材料光催化剂，而且还开发了用于金属和半导体之间的材料掺杂和界面构造的先进微波技术。
+ 
+文献链接：Microwave-Induced Metal Dissolution Synthesis of Core-Shell Copper Nanowires/ZnS for Visible Light Photocatalytic H2 Evolution (Adv. Energy Mater., 2019, DOI: 10.1002/aenm.201900775)
+【课题组简介】
+苏陈良教授/博士生导师。深圳市鹏城学者特聘教授，广东省特支计划科技创新青年拔尖，中国化学快报青年编委。2001年进入浙江大学本科，2005年进入浙江大学直接攻读博士学位，2010年8月进入新加坡国立大学二维材料国际知名学者Loh Kian Ping教授课题组从事博士后研究工作。2015年3月回国正式加入深圳大学，任教授一职，并建立科研团队。课题组博士后成员主要来自法国、日本、德国、新加坡、澳大利亚等世界前150高校及清华、中科院、中科大、南大、厦大等国内985高校，具有浓厚的国际化学术氛围。已发表SCI论文60余篇，4篇入选ESI高被引论文，他引1500余次，H因子20（google scholar）。近年以第一作者或通讯作者在Nat. Commun.（3），Acc. Chem. Res. (1), JACS （1）, Angew. Chem. Int. Ed.（1），PRL (1), Adv. Energy Mater. （1），Adv. Sci. （2）， ACS Catal. （3），Applied Cat. B：Environmental （2），Chem. Mater.（1）等国际知名期刊发表论文20余篇。申请专利10余项，其中已授权美国、国际及中国发明专利3项。课题组链接：http://2dchem.szu.edu.cn/
+【代表性成果】
+近两年通讯发表的代表性成果（深圳大学第一单位）
+1.　　　Liu, C. B. & Su, C. L.* Nature Communications, 2018, 9, 80.论文被Angewandte Chemie-International Edition专题高亮报道. 影响因子 12.353
+2.　　　Yan, H. & Su, C. L.* Nature Communications, 2018, 9, 3197. 影响因子 12.353
+3.　　　Wu, H. R. & Su, C. L.* Angewandte Chemie-International Edition, 2018, 57, 10848. 中科院一区，影响因子12.102，热点和卷首论文.
+4.　　　Bahadur S. & Su, C. L.* Physical review letters, 2018, 226401. 影响因子8.839.
+5.　　　Xiao, S. N. & Su, C. L.* Adv. Energy Mater., 2019, 9, 3197. DOI: 10.1002/aenm.201900775. 影响因子 21.385.
+6.　　　Ou, W. & Su, C. L.* ACS Catal., 2019, 5178. 影响因子 11.384.
+7.　　　Sun, T. & Su, C. L.* ACS Catal., 2018, 7585. 影响因子 11.384.
+8.　　　Sun, T. & Su, C. L.* Adv. Sci., 2018, 1800036. 影响因子 12.441.
+9.　　　Qiu, C. T. & Su, C. L.* Adv. Sci., 2018, 1801403. 影响因子 12.441.
+10.　 Zhang, G. Q. & Su, C. L.* Applied. Cat. B: Environ.., 2019,114. 影响因子11.698

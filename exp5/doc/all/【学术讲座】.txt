@@ -1,0 +1,10 @@
+【学术讲座】
+报告题目： Surface Charge Transfer Doping Enabled High Performance Optoelectronic Devices Based on 2D Materials
+报告人：Wei Chen
+报告时间：2019年5月20号下午14:30
+报告地点：深圳大学南区计算机软件大楼223会议室
+摘要：Two-dimensional (2D) layered materials like graphene and transition metal dichalcogenides (TMDs) have been considered as promising building blocks for the next generation nanoelectronic devices, showing great potentials to extend the scaling limits existing in silicon based complementary metal-oxide-semiconductor field-effect-transistors (CMOS-FET) as well as to serve as a high mobility alternative to organic semiconductors for flexible electronic and optoelectronic devices. As one-atomic or a few atomic thin layers, the interface plays essential role in determining the performance of 2D materials based devices, such as charge injection/collection at metal/2D interfaces, charge carrier traps at the dielectric/2D interfaces, etc. Without precise control of the surface and interface properties, many 2D materials based devices will not function properly. 
+In this talk, I will summarize and discuss our recent work for interface engineered 2D phosphorene and TMDCs based field-effect-transistors (FETs) and photo-transistors, through the combination of in-situ FET device evaluation and photoelectron spectroscopy investigation. We will particularly emphasize on the electron and hole doping effect on the transport properties and optoelectronic response of phosphorene devices.
+报告人简介：Dr Wei Chen is currently an associate professor in both the Chemistry Department and Physics Department at the National University of Singapore (NUS). He received his Bachelor degree in Chemistry from Nanjing University (China) in 2001 and his PhD degree from the Chemistry Department at NUS in 2004. His current research interests include molecular-scale interface engineering for organic, graphene and 2D materials based electronics and optoelectronics, and interface-controlled nanocatalysis for energy and environmental research.
+ 
+

@@ -1,0 +1,277 @@
+加拿大西安大略大学Hanping Hong教授学术报告
+
+　 应深圳大学土木与交通工程学院和深圳大学未来地下城市研究院邀请，加拿大西安大略大学Hanping Hong教授将于2019年5月17日到我校进行学术交流和合作，并为广大师生们作学术报告，欢迎广大师生参加！
+报告题目：Mapping wind, snow and earthquake hazards for
+mainland China报告时间：2019年5月17日（星期五）下午15:00-16:00
+报告地点：土木与交通工程学院B401会议室
+报告人简介: 　　Dr.
+Hong has expertise in the areas of reliability and risk assessment, natural
+hazard modelling, and design code calibration. He has contributed to the
+reliability-based and economic efficient structural design code development and
+calibration. His research aims to provide the information-sensitive
+reliability-based design of civil structures and infrastructure. Some of his
+research results are implemented by the code/standard for enhanced and
+innovative engineering practice. His research group has already developed
+natural hazard maps focused on extreme wind, snow or earthquake for Canada,
+Mexico and China. Dr. Hong is actively participating in several committees for
+design codification and standard, including National Building Code of Canada,
+Standing Committee on Structural Design; CSA-S408-81 “Guidelines for the
+Development of Limit States Design”; Canadian Highway Bridge Design Code; and
+ISO/TC98-SC3-Load, forces and other actions. He holds B.Eng., M.Eng., and Dr.
+Eng degrees all from National University of Autonomous of Mexico (UNAM). He is
+the corresponding member of the Mexican Academy of Engineering and fellow of
+Canadian Society of Civil Engineering.
+报告内容简介:
+　 　In
+this presentation, we provide our experience in mapping wind, snow and
+earthquake hazards for mainland China. For the wind hazard mapping, we used
+both the observations from meteorological stations and simulation results from
+typhoon wind hazard model. The observations from meteorological stations were
+corrected for exposure and, the typhoon wind hazard model incorporates the
+typhoon tracks from genesis to lysis. For the snow hazard mapping, we focused
+on the ground snow load and tested different probabilistic models for snow
+depth and snowpack bulk density. To mapping seismic hazard, we used a set of
+newly mapped the ground motion prediction equations, applied kernel smoothing
+techniques to model seismicity, mapped the seismic hazard and developed uniform
+hazard spectra. For the analysis, probabilistic analysis framework is followed,
+cluster analysis is applied, and spatial smoothing is employed. Results are
+compared with those suggested in Chinese design code - differences are
+identified and implications are discussed.
+ 土木与交通工程学院
+未来地下城市研究院
+2019年5月11日
+
+
+　 应深圳大学土木与交通工程学院和深圳大学未来地下城市研究院邀请，加拿大西安大略大学Hanping Hong教授将于2019年5月17日到我校进行学术交流和合作，并为广大师生们作学术报告，欢迎广大师生参加！
+
+报告题目：Mapping wind, snow and earthquake hazards for
+mainland China报告时间：2019年5月17日（星期五）下午15:00-16:00
+报告地点：土木与交通工程学院B401会议室
+报告人简介: 　　Dr.
+Hong has expertise in the areas of reliability and risk assessment, natural
+hazard modelling, and design code calibration. He has contributed to the
+reliability-based and economic efficient structural design code development and
+calibration. His research aims to provide the information-sensitive
+reliability-based design of civil structures and infrastructure. Some of his
+research results are implemented by the code/standard for enhanced and
+innovative engineering practice. His research group has already developed
+natural hazard maps focused on extreme wind, snow or earthquake for Canada,
+Mexico and China. Dr. Hong is actively participating in several committees for
+design codification and standard, including National Building Code of Canada,
+Standing Committee on Structural Design; CSA-S408-81 “Guidelines for the
+Development of Limit States Design”; Canadian Highway Bridge Design Code; and
+ISO/TC98-SC3-Load, forces and other actions. He holds B.Eng., M.Eng., and Dr.
+Eng degrees all from National University of Autonomous of Mexico (UNAM). He is
+the corresponding member of the Mexican Academy of Engineering and fellow of
+Canadian Society of Civil Engineering.
+报告内容简介:
+　 　In
+this presentation, we provide our experience in mapping wind, snow and
+earthquake hazards for mainland China. For the wind hazard mapping, we used
+both the observations from meteorological stations and simulation results from
+typhoon wind hazard model. The observations from meteorological stations were
+corrected for exposure and, the typhoon wind hazard model incorporates the
+typhoon tracks from genesis to lysis. For the snow hazard mapping, we focused
+on the ground snow load and tested different probabilistic models for snow
+depth and snowpack bulk density. To mapping seismic hazard, we used a set of
+newly mapped the ground motion prediction equations, applied kernel smoothing
+techniques to model seismicity, mapped the seismic hazard and developed uniform
+hazard spectra. For the analysis, probabilistic analysis framework is followed,
+cluster analysis is applied, and spatial smoothing is employed. Results are
+compared with those suggested in Chinese design code - differences are
+identified and implications are discussed.
+ 土木与交通工程学院
+未来地下城市研究院
+2019年5月11日
+
+
+报告题目：Mapping wind, snow and earthquake hazards for
+mainland China
+报告时间：2019年5月17日（星期五）下午15:00-16:00
+报告地点：土木与交通工程学院B401会议室
+报告人简介: 　　Dr.
+Hong has expertise in the areas of reliability and risk assessment, natural
+hazard modelling, and design code calibration. He has contributed to the
+reliability-based and economic efficient structural design code development and
+calibration. His research aims to provide the information-sensitive
+reliability-based design of civil structures and infrastructure. Some of his
+research results are implemented by the code/standard for enhanced and
+innovative engineering practice. His research group has already developed
+natural hazard maps focused on extreme wind, snow or earthquake for Canada,
+Mexico and China. Dr. Hong is actively participating in several committees for
+design codification and standard, including National Building Code of Canada,
+Standing Committee on Structural Design; CSA-S408-81 “Guidelines for the
+Development of Limit States Design”; Canadian Highway Bridge Design Code; and
+ISO/TC98-SC3-Load, forces and other actions. He holds B.Eng., M.Eng., and Dr.
+Eng degrees all from National University of Autonomous of Mexico (UNAM). He is
+the corresponding member of the Mexican Academy of Engineering and fellow of
+Canadian Society of Civil Engineering.
+报告内容简介:
+　 　In
+this presentation, we provide our experience in mapping wind, snow and
+earthquake hazards for mainland China. For the wind hazard mapping, we used
+both the observations from meteorological stations and simulation results from
+typhoon wind hazard model. The observations from meteorological stations were
+corrected for exposure and, the typhoon wind hazard model incorporates the
+typhoon tracks from genesis to lysis. For the snow hazard mapping, we focused
+on the ground snow load and tested different probabilistic models for snow
+depth and snowpack bulk density. To mapping seismic hazard, we used a set of
+newly mapped the ground motion prediction equations, applied kernel smoothing
+techniques to model seismicity, mapped the seismic hazard and developed uniform
+hazard spectra. For the analysis, probabilistic analysis framework is followed,
+cluster analysis is applied, and spatial smoothing is employed. Results are
+compared with those suggested in Chinese design code - differences are
+identified and implications are discussed.
+ 土木与交通工程学院
+未来地下城市研究院
+2019年5月11日
+
+报告时间：2019年5月17日（星期五）下午15:00-16:00
+
+
+
+报告地点：土木与交通工程学院B401会议室
+报告人简介: 　　Dr.
+Hong has expertise in the areas of reliability and risk assessment, natural
+hazard modelling, and design code calibration. He has contributed to the
+reliability-based and economic efficient structural design code development and
+calibration. His research aims to provide the information-sensitive
+reliability-based design of civil structures and infrastructure. Some of his
+research results are implemented by the code/standard for enhanced and
+innovative engineering practice. His research group has already developed
+natural hazard maps focused on extreme wind, snow or earthquake for Canada,
+Mexico and China. Dr. Hong is actively participating in several committees for
+design codification and standard, including National Building Code of Canada,
+Standing Committee on Structural Design; CSA-S408-81 “Guidelines for the
+Development of Limit States Design”; Canadian Highway Bridge Design Code; and
+ISO/TC98-SC3-Load, forces and other actions. He holds B.Eng., M.Eng., and Dr.
+Eng degrees all from National University of Autonomous of Mexico (UNAM). He is
+the corresponding member of the Mexican Academy of Engineering and fellow of
+Canadian Society of Civil Engineering.
+报告内容简介:
+　 　In
+this presentation, we provide our experience in mapping wind, snow and
+earthquake hazards for mainland China. For the wind hazard mapping, we used
+both the observations from meteorological stations and simulation results from
+typhoon wind hazard model. The observations from meteorological stations were
+corrected for exposure and, the typhoon wind hazard model incorporates the
+typhoon tracks from genesis to lysis. For the snow hazard mapping, we focused
+on the ground snow load and tested different probabilistic models for snow
+depth and snowpack bulk density. To mapping seismic hazard, we used a set of
+newly mapped the ground motion prediction equations, applied kernel smoothing
+techniques to model seismicity, mapped the seismic hazard and developed uniform
+hazard spectra. For the analysis, probabilistic analysis framework is followed,
+cluster analysis is applied, and spatial smoothing is employed. Results are
+compared with those suggested in Chinese design code - differences are
+identified and implications are discussed.
+ 土木与交通工程学院
+未来地下城市研究院
+2019年5月11日
+
+
+报告地点：土木与交通工程学院B401会议室
+
+报告人简介: 　　Dr.
+Hong has expertise in the areas of reliability and risk assessment, natural
+hazard modelling, and design code calibration. He has contributed to the
+reliability-based and economic efficient structural design code development and
+calibration. His research aims to provide the information-sensitive
+reliability-based design of civil structures and infrastructure. Some of his
+research results are implemented by the code/standard for enhanced and
+innovative engineering practice. His research group has already developed
+natural hazard maps focused on extreme wind, snow or earthquake for Canada,
+Mexico and China. Dr. Hong is actively participating in several committees for
+design codification and standard, including National Building Code of Canada,
+Standing Committee on Structural Design; CSA-S408-81 “Guidelines for the
+Development of Limit States Design”; Canadian Highway Bridge Design Code; and
+ISO/TC98-SC3-Load, forces and other actions. He holds B.Eng., M.Eng., and Dr.
+Eng degrees all from National University of Autonomous of Mexico (UNAM). He is
+the corresponding member of the Mexican Academy of Engineering and fellow of
+Canadian Society of Civil Engineering.
+报告内容简介:
+　 　In
+this presentation, we provide our experience in mapping wind, snow and
+earthquake hazards for mainland China. For the wind hazard mapping, we used
+both the observations from meteorological stations and simulation results from
+typhoon wind hazard model. The observations from meteorological stations were
+corrected for exposure and, the typhoon wind hazard model incorporates the
+typhoon tracks from genesis to lysis. For the snow hazard mapping, we focused
+on the ground snow load and tested different probabilistic models for snow
+depth and snowpack bulk density. To mapping seismic hazard, we used a set of
+newly mapped the ground motion prediction equations, applied kernel smoothing
+techniques to model seismicity, mapped the seismic hazard and developed uniform
+hazard spectra. For the analysis, probabilistic analysis framework is followed,
+cluster analysis is applied, and spatial smoothing is employed. Results are
+compared with those suggested in Chinese design code - differences are
+identified and implications are discussed.
+ 土木与交通工程学院
+未来地下城市研究院
+2019年5月11日
+
+
+报告人简介:
+ 　　Dr.
+Hong has expertise in the areas of reliability and risk assessment, natural
+hazard modelling, and design code calibration. He has contributed to the
+reliability-based and economic efficient structural design code development and
+calibration. His research aims to provide the information-sensitive
+reliability-based design of civil structures and infrastructure. Some of his
+research results are implemented by the code/standard for enhanced and
+innovative engineering practice. His research group has already developed
+natural hazard maps focused on extreme wind, snow or earthquake for Canada,
+Mexico and China. Dr. Hong is actively participating in several committees for
+design codification and standard, including National Building Code of Canada,
+Standing Committee on Structural Design; CSA-S408-81 “Guidelines for the
+Development of Limit States Design”; Canadian Highway Bridge Design Code; and
+ISO/TC98-SC3-Load, forces and other actions. He holds B.Eng., M.Eng., and Dr.
+Eng degrees all from National University of Autonomous of Mexico (UNAM). He is
+the corresponding member of the Mexican Academy of Engineering and fellow of
+Canadian Society of Civil Engineering.
+
+
+
+报告内容简介:
+
+　 　In
+this presentation, we provide our experience in mapping wind, snow and
+earthquake hazards for mainland China. For the wind hazard mapping, we used
+both the observations from meteorological stations and simulation results from
+typhoon wind hazard model. The observations from meteorological stations were
+corrected for exposure and, the typhoon wind hazard model incorporates the
+typhoon tracks from genesis to lysis. For the snow hazard mapping, we focused
+on the ground snow load and tested different probabilistic models for snow
+depth and snowpack bulk density. To mapping seismic hazard, we used a set of
+newly mapped the ground motion prediction equations, applied kernel smoothing
+techniques to model seismicity, mapped the seismic hazard and developed uniform
+hazard spectra. For the analysis, probabilistic analysis framework is followed,
+cluster analysis is applied, and spatial smoothing is employed. Results are
+compared with those suggested in Chinese design code - differences are
+identified and implications are discussed.
+
+
+ 土木与交通工程学院
+未来地下城市研究院
+2019年5月11日
+
+土木与交通工程学院
+
+
+未来地下城市研究院
+2019年5月11日
+
+
+未来地下城市研究院
+
+2019年5月11日
+
+
+
+
+
+
+
+
+
+
+
+
